@@ -1,4 +1,0 @@
-#nbformat version 
-conda install -c conda-forge nbformat 5.10.4
- joblib-1.4.0
-#
